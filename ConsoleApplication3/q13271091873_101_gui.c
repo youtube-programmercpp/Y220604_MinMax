@@ -47,7 +47,7 @@ void ì¸óÕèàóù(HWND hDlg)
 		}
 	}
 }
-INT_PTR DialogProc(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
+INT_PTR CALLBACK DialogProc(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 {
 	switch (message) {
 	case WM_INITDIALOG:
