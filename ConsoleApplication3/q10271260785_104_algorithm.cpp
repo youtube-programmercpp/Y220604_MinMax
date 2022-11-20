@@ -48,7 +48,7 @@ int main()
 		//読み込んだ整数値の一覧
 		std::cout << "Data List:\n";
 		output(a, 0);
-		for (int i = 1; i < n; ++i)
+		for (size_t i = 1; i < n; ++i)
 			output(a, i);
 		//平均値，最大値，最小値
 		const double s   = std::accumulate (a, a + n, 0); //合計値
