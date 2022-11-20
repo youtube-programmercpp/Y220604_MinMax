@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="q10271260785_101.c" />
+    <ClCompile Include="q10271260785_102_size_t.c" />
+    <ClCompile Include="q10271260785_103.cpp" />
+    <ClCompile Include="q10271260785_104_algorithm.cpp" />
     <ClCompile Include="q13271091873_101_cui.c" />
     <ClCompile Include="q13271091873_101_gui.c" />
   </ItemGroup>
@@ -136,6 +140,9 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="ConsoleApplication3.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="q10271260785_stdin.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

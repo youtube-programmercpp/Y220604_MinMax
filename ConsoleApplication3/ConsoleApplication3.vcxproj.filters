@@ -24,6 +24,18 @@
     <ClCompile Include="q13271091873_101_gui.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="q10271260785_101.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="q10271260785_103.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="q10271260785_104_algorithm.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="q10271260785_102_size_t.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
@@ -34,5 +46,8 @@
     <ResourceCompile Include="ConsoleApplication3.rc">
       <Filter>リソース ファイル</Filter>
     </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="q10271260785_stdin.txt" />
   </ItemGroup>
 </Project>
