@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dialog_Programs.cpp" />
     <ClCompile Include="ExportedFunction.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="q10271260785_101.c" />
@@ -138,6 +139,7 @@
     <ClCompile Include="RedirectStdinToFile.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Dialog_Programs.h" />
     <ClInclude Include="ExportedFunction.h" />
     <ClInclude Include="RedirectStdinToFile.h" />
     <ClInclude Include="resource.h" />
